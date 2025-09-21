@@ -21,12 +21,15 @@ A heat map showing emissions per capita across continents for each source. This 
 ### Key Features
 #### Interconnected Visualisations
 ![Crosslink](https://github.com/niloy2974/Analysis-of-Global-Carbon-Emissions-2001-2021-with-Tableau-Visualisation/blob/main/visualisations/Features_Crosslinks.jpg)
+
 All charts in the dashboard are fully linked, meaning that selecting a country, continent, or top emitter instantly updates every view. This provides a holistic perspective and ensures patterns are analysed in the right context.
 #### Flexible Filtering Options
 ![Filter](https://github.com/niloy2974/Analysis-of-Global-Carbon-Emissions-2001-2021-with-Tableau-Visualisation/blob/main/visualisations/Features_Continent%20Filtering.png)
+
 Users can filter data by continent, focus on individual countries, or isolate the top 10 emitters. These filters allow comparisons across scales, from regional trends to country-level performance.
 #### Hover Interactivity
 ![Hover](https://github.com/niloy2974/Analysis-of-Global-Carbon-Emissions-2001-2021-with-Tableau-Visualisation/blob/main/visualisations/Features_Hover%20Insights.jpg)
+
 Detailed tooltips are available across all visualisations, providing exact values of CO₂ emissions, GDP, and population when hovering. This makes the dashboard both interactive and informative.
 #### Trend Line Insights
 Scatterplots and area charts include average trend lines to reveal long-term patterns. These help uncover how GDP and population growth correlate with emission changes over the two decades.
