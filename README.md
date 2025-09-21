@@ -24,7 +24,7 @@ A heat map showing emissions per capita across continents for each source. This 
 
 All charts in the dashboard are fully linked, meaning that selecting a country, continent, or top emitter instantly updates every view. This provides a holistic perspective and ensures patterns are analysed in the right context.
 #### Flexible Filtering Options
-![Filter](https://github.com/niloy2974/Analysis-of-Global-Carbon-Emissions-2001-2021-with-Tableau-Visualisation/blob/main/visualisations/Features_Continent%20Filtering.png)
+![Filter](https://github.com/niloy2974/Analysis-of-Global-Carbon-Emissions-2001-2021-with-Tableau-Visualisation/blob/main/visualisations/Features_Continent%20Filtering.jpg)
 
 Users can filter data by continent, focus on individual countries, or isolate the top 10 emitters. These filters allow comparisons across scales, from regional trends to country-level performance.
 #### Hover Interactivity
