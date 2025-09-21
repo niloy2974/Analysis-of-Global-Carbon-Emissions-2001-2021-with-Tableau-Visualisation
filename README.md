@@ -1,0 +1,2 @@
+# Tableau-Visualisation-and-Analysis-of-Global-Carbon-Emissions-2001-2021-
+This Tableau project analyses carbon emissions (2001–2021), examining the impact of GDP and population on flaring, cement, gas, oil, and coal. The dashboard uncovers global, regional, and source-specific trends, offering insights into how economic growth and demographics shape emission patterns for sustainability decisions.
