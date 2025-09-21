@@ -1,5 +1,8 @@
 # Tableau-Visualisation-and-Analysis-of-Global-Carbon-Emissions-2001-2021
 This Tableau project analyses carbon emissions (2001–2021), examining the impact of GDP and population on flaring, cement, gas, oil, and coal. The dashboard uncovers global, regional, and source-specific trends, offering insights into how economic growth and demographics shape emission patterns for sustainability decisions.
+## Dataset and Tableau Visualisation Sources
+This project uses the CO₂ and Greenhouse Gas Emissions dataset from Our World in Data [(dataset link)](https://ourworldindata.org/co2-and-greenhouse-gas-emissions#explore-data-on-co2-and-greenhouse-gas-emissions). It provides country-level data on CO₂ emissions from 2001–2021, covering five major sources—flaring, cement, gas, oil, and coal—along with GDP and population metrics. An interactive Tableau dashboard [(tableau link)](https://public.tableau.com/views/CarbonEmissions2001-2021Individual/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) explores emission trends globally and regionally. It shows the impact of GDP and population, highlights source-specific patterns, and includes filters for countries, continents, and top emitters to support sustainability insights.
+
 ## Dashboard: Carbon Emissions (2001-2021)
 ![Dashboard]()
 
